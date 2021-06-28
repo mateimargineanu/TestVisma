@@ -1,0 +1,32 @@
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\FrameworkImplementation.dll
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\FrameworkImplementation.pdb
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.dll
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.Support.dll
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.xml
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.Support.xml
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csprojAssemblyReference.cache
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csproj.CoreCompileInputs.cache
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csproj.CopyComplete
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.dll
+D:\training\selenium\Selenium in c#\Projects\AutomationProjectDocumentation\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.pdb
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\FrameworkImplementation.dll
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\FrameworkImplementation.pdb
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.dll
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.Support.dll
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.xml
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.Support.xml
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csprojAssemblyReference.cache
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csproj.CoreCompileInputs.cache
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csproj.CopyComplete
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.dll
+C:\Users\matei.margineanu\Desktop\ToBeTransfered to laptop\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.pdb
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\FrameworkImplementation.dll
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\FrameworkImplementation.pdb
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.dll
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.Support.dll
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.xml
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\bin\Debug\WebDriver.Support.xml
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csproj.CoreCompileInputs.cache
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.csproj.CopyComplete
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.dll
+C:\02-files\training\c# - Projects\AutomationProjectDoc\FrameworkDocumentationPorject\FrameworkImplementation\obj\Debug\FrameworkImplementation.pdb
